@@ -1,0 +1,11 @@
+{
+  "name": "illustrator-portfolio",
+  "version": "1.0.0",
+  "description": "Illustrator Portfolio using bootstrap and css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriela Oliveira",
+  "license": "ISC"
+}
