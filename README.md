@@ -1,3 +1,3 @@
 # Illustrator-portfolio
 
-Porfolio project, using Bootstrap and Css
+Portfolio project, using Bootstrap and Css
