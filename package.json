@@ -4,7 +4,7 @@
   "description": "Illustrator Portfolio using bootstrap and css",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d Illustrator-portfolio"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Gabriela Oliveira",
   "license": "ISC",
