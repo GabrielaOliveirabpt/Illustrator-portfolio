@@ -2,14 +2,11 @@
   "name": "illustrator-portfolio",
   "version": "1.0.0",
   "description": "Illustrator Portfolio using bootstrap and css",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d Illustrator-portfolio"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gabriela Oliveira",
-  "license": "ISC",
-  "homepage": "https://GabrielaOliveirabpt.github.io/Illustrator-portfolio",
-  "dependencies": {
-    "gh-pages": "^3.2.3"
+  "license": "ISC"
   }
 }
